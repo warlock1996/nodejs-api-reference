@@ -1,3 +1,5 @@
+https://nodejs.org/en/knowledge/advanced/buffers/how-to-use-buffers/
+
 const arr = new Uint16Array();
 
 arr;
