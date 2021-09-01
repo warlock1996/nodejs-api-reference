@@ -1,8 +1,6 @@
-https://nodejs.org/en/knowledge/advanced/buffers/how-to-use-buffers/
+//nodejs.org/en/knowledge/advanced/buffers/how-to-use-buffers/
 
-const arr = new Uint16Array();
-
-arr;
+exports.arr = () => new Uint16Array();
 
 const alloc = Buffer.alloc(10, "0");
 alloc;
