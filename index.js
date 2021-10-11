@@ -1,4 +1,7 @@
-const { name, age, dob } = require("./CommonJSModules/mymodule");
+const a = "123";
+const b = 123;
+debugger;
 
-console.log(name, age, dob);
-// console.log(func);
+const result = a + b;
+
+console.log(result);
